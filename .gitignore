@@ -1,0 +1,7 @@
+*.skill
+*.zip
+*-workspace/
+.env
+.env.*
+.DS_Store
+Thumbs.db

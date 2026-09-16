@@ -1,0 +1,4 @@
+interface:
+  display_name: "Company to Landing"
+  short_description: "Da descrizione, URL o Instagram a brand e landing dinamica"
+  default_prompt: "Usa $company-to-landing per creare una landing dinamica dalla descrizione o URL della mia azienda, con foto e video dal nostro Instagram @handle, proponendo direzioni creative e ricavando contenuti, media e brand con il minimo costo aggiuntivo."
