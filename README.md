@@ -62,7 +62,7 @@ La skill funziona anche da sola: per ogni fase ha regole di riserva in `referenc
 
 ## Accesso
 
-Il repo è privato. Per condividerlo aggiungi un collaboratore in sola lettura:
+Il repo è privato. Il team Evolv-ia vi accede con l'account aziendale `Evolv-ia`. Solo per persone esterne aggiungi un collaboratore in sola lettura:
 
 ```bash
 gh api -X PUT repos/Evolv-ia/company-to-landing/collaborators/<username-github> -f permission=pull
